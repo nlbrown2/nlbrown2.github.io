@@ -60,12 +60,9 @@ plugins:
 
 author:
   name   : "Nathan Brown and Dana Shay"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/new_bio.jpeg"
   bio    : "Nathan is a software engineer and Dana is an aspiring physician. We love to travel and cook, and plan to use this blog to share our passions."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nlbrown2"
