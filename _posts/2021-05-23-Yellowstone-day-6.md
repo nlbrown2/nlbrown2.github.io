@@ -4,6 +4,31 @@ categories:
     - Travel
 tags:
     - Yellowstone
+gallery:
+  - url: /assets/images/yellowstone/Day6Mocha.jpg
+    image_path: assets/images/yellowstone/Day6Mocha.jpg
+    title: "The delicious mocha!"
+  - url: /assets/images/yellowstone/Day6AreialShot.jpeg
+    image_path: assets/images/yellowstone/Day6AreialShot.jpeg
+    title: "Overview of some beautiful mud pots!"
+  - url: /assets/images/yellowstone/Day6BloodGeyser.jpg
+    image_path: assets/images/yellowstone/Day6BloodGeyser.jpg
+    title: "I see how this gets the name of Blood Geyser!"
+  - url: /assets/images/yellowstone/Day6Paintpots.jpg
+    image_path: assets/images/yellowstone/Day6Paintpots.jpg
+    title: "Seeing these were so neat compared to the eruptions and hot spring pools"
+  - url: /assets/images/yellowstone/Day6River.jpg
+    image_path: assets/images/yellowstone/Day6River.jpg
+    title: "Great picture of the rapid river. Unfortunately, it was too dangerous to swim!"
+  - url: /assets/images/yellowstone/Day6Rusty.jpeg
+    image_path: assets/images/yellowstone/Day6Rusty.jpeg
+    title: "We loved the rusty ring around this one!"
+  - url: /assets/images/yellowstone/Day6SapphirePool.jpeg
+    image_path: assets/images/yellowstone/Day6SapphirePool.jpeg
+    title: "This pool was one of our favorites :)"
+  - url: /assets/images/yellowstone/Day6Triplets.jpg
+    image_path: assets/images/yellowstone/Day6Triplets.jpg
+    title: "These pools are triplets!"
 ---
 # Day 6 (May 22nd, 2021)
 ## 8:30 am
@@ -38,3 +63,22 @@ Since we were now famished, we decided to head out of the park to grab some food
  - 20,023 steps (Dana may have walked a few laps around the hotel room to get above 20,000)
  - 38 floors
  - 8.15 miles
+
+{% include gallery caption="A day full of paintpots!" %}
+
+<figure class="large">
+    <div class="myvideo">
+       <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+           <source src="{{ site.baseurl }}/assets/images/yellowstone/Day6Mudpots.mp4" type="video/mp4" />
+       </video>
+    </div>
+<figcaption>Slinging Mud!</figcaption>
+</figure>
+<figure class="large">
+    <div class="myvideo">
+       <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+           <source src="{{ site.baseurl }}/assets/images/yellowstone/Day6Gurgle.mp4" type="video/mp4" />
+       </video>
+    </div>
+<figcaption>Paintpots gurgling constantly!</figcaption>
+</figure>

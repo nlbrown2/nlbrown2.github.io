@@ -4,6 +4,10 @@ categories:
     - Travel
 tags:
     - Yellowstone
+gallery:
+  - url: /assets/images/yellowstone/Day7Dinner.jpg
+    image_path: assets/images/yellowstone/Day7Dinner.jpg
+    title: "The delicious dinner!"
 ---
 # Day 7 (May 23rd, 2021)
 Today is the day of Dana’s interview at TUNCOM, a D.O. school in Nevada. It’s from 2-7 pm, so we didn’t have much planned for the day.
@@ -29,3 +33,5 @@ We come back to the hotel and watch an episode of _The Queen’s Gambit_ before 
 
 ## Daily Stats
 We didn’t do any exercise today, so we don’t wanna talk about it ;)
+
+{% include gallery caption="We loved our dinner!" %}

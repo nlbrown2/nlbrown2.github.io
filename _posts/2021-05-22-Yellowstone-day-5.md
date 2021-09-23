@@ -25,7 +25,7 @@ The weather has cooled off, and we got hungry, so we decided to get some dinner 
 By the time we started to eat dinner, we had started to get rained upon, so we finished up in the car and planned to cut the day short and head home.
 
 ## 7 pm
-After a bit of driving, the rain let up, so we decided to see if we could see the Grand Prismatic Spring at the Midway Geyser Basin. Unfortunately, the rain caused the springs in the basin to emit a lot of steam, so much so that seeing them became a challenge, and taking a good picture of them became next to impossible! We resolved to revisit another day but still looked at all of the springs/geysers in the area since we were there, and the weather was nice.
+After a bit of driving, the rain let up, so we decided to see if we could see the Grand Prismatic Spring at the Midway Geyser Basin. Unfortunately, the rain caused the springs in the basin to emit a lot of steam, so much so that seeing them became a challenge, and taking a good picture of them became next to impossible! We resolved to revisit another day but still looked at all the springs/geysers in the area since we were there, and the weather was nice.
 
 ## 8:30 pm
 Home sweet Hotel room. We made good time since we didn’t run into a Bison Backup on the way out of the park (although we did get to see some more bison, including witnessing a baby drinking milk from its mother)!
@@ -41,5 +41,5 @@ Home sweet Hotel room. We made good time since we didn’t run into a Bison Back
            <source src="{{ site.baseurl }}/assets/images/yellowstone/Day5FireholeGeyser.mp4" type="video/mp4" />
        </video>
     </div>
-<figcaption>Geyser Eruption!</figcaption>
+<figcaption>Fire in the hole! (Firehole Geyser)</figcaption>
 </figure>

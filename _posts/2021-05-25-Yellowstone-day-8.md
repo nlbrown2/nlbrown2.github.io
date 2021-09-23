@@ -4,6 +4,31 @@ categories:
     - Travel
 tags:
     - Yellowstone
+gallery:
+  - url: /assets/images/yellowstone/Day8OldFaithful.jpg
+    image_path: assets/images/yellowstone/Day8OldFaithful.jpg
+    title: "Another Old Faithful Eruption!"
+  - url: /assets/images/yellowstone/Day8ContinentalDivide.jpg
+    image_path: assets/images/yellowstone/Day8ContinentalDivide.jpg
+    title: "We passed the Continental Divide many times in Yellowstone!"
+  - url: /assets/images/yellowstone/Day8DeepGeyser.jpg
+    image_path: assets/images/yellowstone/Day8DeepGeyser.jpg
+    title: "Does it even have a bottom?"
+  - url: /assets/images/yellowstone/Day8GreenTrail.jpg
+    image_path: assets/images/yellowstone/Day8GreenTrail.jpg
+    title: "Beautiful colors!"
+  - url: /assets/images/yellowstone/Day8LakeGeyser.jpg
+    image_path: assets/images/yellowstone/Day8LakeGeyser.jpg
+    title: "Geysers right up to Lake Yellowstone!"
+  - url: /assets/images/yellowstone/Day8TetonRange.jpg
+    image_path: assets/images/yellowstone/Day8TetonRange.jpg
+    title: "We can see Teton Range across Yellowstone Lake!"
+  - url: /assets/images/yellowstone/Day8TwinGeyser.jpg
+    image_path: assets/images/yellowstone/Day8TwinGeyser.jpg
+    title: "Had to get a picture of this as a tribute to my twin :)"
+  - url: /assets/images/yellowstone/Day8YogiBear.jpg
+    image_path: assets/images/yellowstone/Day8YogiBear.jpg
+    title: "Delicious eats await!"
 ---
 # Day 8 (May 24th, 2021)
 Today is our last day in the park! :(. Today our plan is to visit West Thumb Geyser Basin, maybe hike (the weather forecast isn’t great though), and eat some huckleberry ice cream!
@@ -33,3 +58,5 @@ Tired from our long day and needing to have an early day tomorrow for the flight
 - 10,231 steps
 - 12 floors
 - 4.16 miles
+
+{% include gallery caption="Can't wait to come back!" %}
