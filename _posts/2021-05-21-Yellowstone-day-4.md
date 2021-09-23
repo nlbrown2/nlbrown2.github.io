@@ -4,6 +4,31 @@ categories:
     - Travel
 tags:
     - Yellowstone
+gallery:
+  - url: /assets/images/yellowstone/Day4BabyBison.jpeg
+    image_path: assets/images/yellowstone/Day4BabyBison.jpeg
+    title: "Mama and Baby Bison"
+  - url: /assets/images/yellowstone/Day4Bear.jpeg
+    image_path: assets/images/yellowstone/Day4Bear.jpeg
+    title: "Bear Alert!"
+  - url: /assets/images/yellowstone/Day4BisonCrossing.jpeg
+    image_path: assets/images/yellowstone/Day4BisonCrossing.jpeg
+    title: "Beep Beep the Bison have places to be"
+  - url: /assets/images/yellowstone/Day4BisonField.jpeg
+    image_path: assets/images/yellowstone/Day4BisonField.jpeg
+    title: "Hungry Travelers"
+  - url: /assets/images/yellowstone/Day4MountainGoat.jpeg
+    image_path: assets/images/yellowstone/Day4MountainGoat.jpeg
+    title: "Goats get hungry too!"
+  - url: /assets/images/yellowstone/Day4NorrisBasin.jpeg
+    image_path: assets/images/yellowstone/Day4NorrisBasin.jpeg
+    title: "Green Bacterial Mats"
+  - url: /assets/images/yellowstone/Day4WaterBison.jpeg
+    image_path: assets/images/yellowstone/Day4WaterBison.jpeg
+    title: "A Bison and the Moutains"
+  - url: /assets/images/yellowstone/Day4Whiteout.jpeg
+    image_path: assets/images/yellowstone/Day4Whiteout.jpeg
+    title: "May Flowers? More like May Snow Showers"
 ---
 # Todo
 - [ ] add photos
@@ -35,3 +60,5 @@ Remember, there was a lot of driving!
 - 7,000 steps
 - 18 floors
 - 3 miles
+
+{% include gallery caption="The Road to Yellowstone" %}

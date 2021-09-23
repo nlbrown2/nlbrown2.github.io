@@ -4,6 +4,22 @@ categories:
     - Travel
 tags:
     - Yellowstone
+gallery:
+  - url: /assets/images/yellowstone/Day2Sign.jpeg
+    image_path: assets/images/yellowstone/Day2Sign.jpeg
+    title: "Yellowstone National Park Entrance Sign"
+  - url: /assets/images/yellowstone/Day2TerraceFloor.jpeg
+    image_path: assets/images/yellowstone/Day2TerraceFloor.jpeg
+    title: "Impressive Terracing at Mammoth Hot Springs"
+  - url: /assets/images/yellowstone/Day2TerraceMammoth.jpeg
+    image_path: assets/images/yellowstone/Day2TerraceMammoth.jpeg
+    title: "Jupiter Terrace"
+  - url: /assets/images/yellowstone/Day2BeaverPonds.jpeg
+    image_path: assets/images/yellowstone/Day2BeaverPonds.jpeg
+    title: "Hike a Mile in My Shoes"
+  - url: /assets/images/yellowstone/Day2CupidTerrace.jpeg
+    image_path: assets/images/yellowstone/Day2CupidTerrace.jpeg
+    title: "Love at the Spring"
 ---
 # Todo
 - [ ] add photos
@@ -37,3 +53,5 @@ We lugged our full selves up the hill to our hotel and cleaned up after dinner. 
 - Walked about 9 miles
 - Climbed 117 floors (change in elevation)
 - 29,263 steps
+
+{% include gallery caption="The Road to Yellowstone" %}

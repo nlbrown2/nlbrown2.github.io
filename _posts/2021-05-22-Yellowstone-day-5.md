@@ -4,6 +4,37 @@ categories:
     - Travel
 tags:
     - Yellowstone
+gallery:
+  - url: /assets/images/yellowstone/Day5BisonBackup.jpeg
+    image_path: assets/images/yellowstone/Day5BisonBackup.jpeg
+    title: "Traffic Jam"
+  - url: /assets/images/yellowstone/Day5CloseUp.jpeg
+    image_path: assets/images/yellowstone/Day5CloseUp.jpeg
+    title: "Up Close and Personal with Bacteria"
+  - url: /assets/images/yellowstone/Day5Glossy.jpeg
+    image_path: assets/images/yellowstone/Day5Glossy.jpeg
+    title: "Opal Reflections"
+  - url: /assets/images/yellowstone/Day5GrandPrismatic.jpg
+    image_path: assets/images/yellowstone/Day5GrandPrismatic.jpg
+    title: "Foggy but Grand"
+  - url: /assets/images/yellowstone/Day5PrettyPool.jpeg
+    image_path: assets/images/yellowstone/Day5PrettyPool.jpeg
+    title: "Baby Grand Prismatic"
+  - url: /assets/images/yellowstone/Day5RiverRunoff.jpg
+    image_path: assets/images/yellowstone/Day5RiverRunoff.jpg
+    title: "Midway Geyer Basin Runoff"
+  - url: /assets/images/yellowstone/Day5SteamPanoramic.jpg
+    image_path: assets/images/yellowstone/Day5SteamPanoramic.jpg
+    title: "Sulfur Sauna"
+  - url: /assets/images/yellowstone/Day5SteamyGeyser.jpeg
+    image_path: assets/images/yellowstone/Day5GrandPrismatic.jpeg
+    title: "Rainbows and Steam"
+  - url: /assets/images/yellowstone/Day5TwoPools.jpg
+    image_path: assets/images/yellowstone/Day5TwoPools.jpg
+    title: "Pinched Pool"
+  - url: /assets/images/yellowstone/Day5USAPool.jpeg
+    image_path: assets/images/yellowstone/Day5USAPool.jpeg
+    title: "If the USA Was Under Water"
 ---
 # Day 5 (May 22nd, 2021)
 ## 10:30 am
@@ -43,3 +74,5 @@ Home sweet Hotel room. We made good time since we didn’t run into a Bison Back
     </div>
 <figcaption>Fire in the hole! (Firehole Geyser)</figcaption>
 </figure>
+
+{% include gallery caption="The Road to Yellowstone" %}

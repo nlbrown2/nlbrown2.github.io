@@ -4,6 +4,10 @@ categories:
     - Travel
 tags:
     - Yellowstone
+gallery:
+  - url: /assets/images/yellowstone/Day1Drive.jpeg
+    image_path: assets/images/yellowstone/Day1Drive.jpeg
+    title: "The Road to Yellowstone"
 ---
 # TODO
 - [ ] Add pictures!
@@ -24,4 +28,5 @@ We finally made it to Gardiner! After check-in, we chatted with the front desk a
 # 9:30, Mountain Time
 Finally, we decided to create this blog, read a bit (I’m excited to start my new book, and Dana is working on _Little Fires Everywhere_). Looking forward to our adventures ahead!
 Tomorrow, we will probably visit Mammoth Hot Springs to get an idea of how long it takes to drive around Yellowstone.
-x
+
+{% include gallery caption="The Road to Yellowstone" %}

@@ -4,6 +4,13 @@ categories:
     - Travel
 tags:
     - Yellowstone
+gallery:
+  - url: /assets/images/yellowstone/Day3BisonSolo.jpeg
+    image_path: assets/images/yellowstone/Day3BisonSolo.jpeg
+    title: "A Lonely Bison"
+  - url: /assets/images/yellowstone/Day3River.jpeg
+    image_path: assets/images/yellowstone/Day3River.jpeg
+    title: "Just Around the River Bend"
 ---
 # Day 3 (May 20th, 2021)
 ## 9:30 am
@@ -35,4 +42,4 @@ After dinner, we decide to freshen up, watch a TV show (_The Queens Gambit_), an
 - Climbed 35 floors
 - 4.25 miles
 
-
+{% include gallery caption="The Road to Yellowstone" %}
