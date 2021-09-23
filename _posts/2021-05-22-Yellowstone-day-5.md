@@ -34,3 +34,12 @@ Home sweet Hotel room. We made good time since we didn’t run into a Bison Back
 - 17,154 steps
 - 37 floors
 - 7.01 miles
+
+<figure class="large">
+    <div class="myvideo">
+       <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+           <source src="{{ site.baseurl }}/assets/images/yellowstone/Day5FireholeGeyser.mp4" type="video/mp4" />
+       </video>
+    </div>
+<figcaption>Geyser Eruption!</figcaption>
+</figure>
