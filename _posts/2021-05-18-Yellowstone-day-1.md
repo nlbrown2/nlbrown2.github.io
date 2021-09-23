@@ -9,9 +9,6 @@ gallery:
     image_path: assets/images/yellowstone/Day1Drive.jpeg
     title: "The Road to Yellowstone"
 ---
-# TODO
-- [ ] Add pictures!
-
 # Day One (May 18th, 2021)
 ## 5:30 am, Eastern Time
 That’s when we woke up :(. It was not very fun, but we got to see the sunrise in Ann Arbor, MI before we left! Our flight from DTW left at 8:30. We got to the airport with enough time to grab some tasty breakfast sandwiches/burritos before leaving! We had a tight connection in Salt Lake City (when we deplaned at SLC, the connector flight was already boarding!). Luckily, there was construction at the gate, and we had to take a bus to the plane! The airport in SLC was surrounded by beautiful mountains - we should go back!

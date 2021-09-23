@@ -27,7 +27,7 @@ gallery:
     image_path: assets/images/yellowstone/Day5SteamPanoramic.jpg
     title: "Sulfur Sauna"
   - url: /assets/images/yellowstone/Day5SteamyGeyser.jpeg
-    image_path: assets/images/yellowstone/Day5GrandPrismatic.jpeg
+    image_path: assets/images/yellowstone/Day5SteamyGeyser.jpeg
     title: "Rainbows and Steam"
   - url: /assets/images/yellowstone/Day5TwoPools.jpg
     image_path: assets/images/yellowstone/Day5TwoPools.jpg

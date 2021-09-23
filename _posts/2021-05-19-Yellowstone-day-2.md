@@ -11,18 +11,16 @@ gallery:
   - url: /assets/images/yellowstone/Day2TerraceFloor.jpeg
     image_path: assets/images/yellowstone/Day2TerraceFloor.jpeg
     title: "Impressive Terracing at Mammoth Hot Springs"
-  - url: /assets/images/yellowstone/Day2TerraceMammoth.jpeg
-    image_path: assets/images/yellowstone/Day2TerraceMammoth.jpeg
+  - url: /assets/images/yellowstone/Day2TerraceMammoth.jpg
+    image_path: assets/images/yellowstone/Day2TerraceMammoth.jpg
     title: "Jupiter Terrace"
   - url: /assets/images/yellowstone/Day2BeaverPonds.jpeg
     image_path: assets/images/yellowstone/Day2BeaverPonds.jpeg
     title: "Hike a Mile in My Shoes"
-  - url: /assets/images/yellowstone/Day2CupidTerrace.jpeg
-    image_path: assets/images/yellowstone/Day2CupidTerrace.jpeg
+  - url: /assets/images/yellowstone/Day2CupidTerrace.jpg
+    image_path: assets/images/yellowstone/Day2CupidTerrace.jpg
     title: "Love at the Spring"
 ---
-# Todo
-- [ ] add photos
 # Day Two (May 19th, 2021)
 ## 9 am
 Rise and shine! After a good night’s rest, we got dressed and packed up for breakfast. We went to the Tumbleweed Bookstore and Cafe, which was lovely. I got a delicious egg, ham, and swiss sandwich on an Asiago bagel. Dana got a delicious roast beef, turkey, ham, tomato, lettuce & mayo in a tomato wrap. Yum! I also had some lovely huckleberry tea that was a great way to start the day.

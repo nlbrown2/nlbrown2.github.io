@@ -8,14 +8,14 @@ gallery:
   - url: /assets/images/yellowstone/Day4BabyBison.jpeg
     image_path: assets/images/yellowstone/Day4BabyBison.jpeg
     title: "Mama and Baby Bison"
-  - url: /assets/images/yellowstone/Day4Bear.jpeg
-    image_path: assets/images/yellowstone/Day4Bear.jpeg
+  - url: /assets/images/yellowstone/Day4Bear.jpg
+    image_path: assets/images/yellowstone/Day4Bear.jpg
     title: "Bear Alert!"
-  - url: /assets/images/yellowstone/Day4BisonCrossing.jpeg
-    image_path: assets/images/yellowstone/Day4BisonCrossing.jpeg
+  - url: /assets/images/yellowstone/Day4BisonCrossing.jpg
+    image_path: assets/images/yellowstone/Day4BisonCrossing.jpg
     title: "Beep Beep the Bison have places to be"
-  - url: /assets/images/yellowstone/Day4BisonField.jpeg
-    image_path: assets/images/yellowstone/Day4BisonField.jpeg
+  - url: /assets/images/yellowstone/Day4BisonField.jpg
+    image_path: assets/images/yellowstone/Day4BisonField.jpg
     title: "Hungry Travelers"
   - url: /assets/images/yellowstone/Day4MountainGoat.jpeg
     image_path: assets/images/yellowstone/Day4MountainGoat.jpeg
@@ -30,8 +30,6 @@ gallery:
     image_path: assets/images/yellowstone/Day4Whiteout.jpeg
     title: "May Flowers? More like May Snow Showers"
 ---
-# Todo
-- [ ] add photos
 # Day 4 (May 21st, 2021)
 ## 9 am
 I get dressed and head downstairs to snag a cup of tea and coffee for Dana and me, respectively. We get ready for the day and finalize packing. Today is the last day at the North Entrance! Tonight we check into a hotel in West Yellowstone, where we will complete our Yellowstone journey.

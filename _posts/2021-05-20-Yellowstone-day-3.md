@@ -5,8 +5,8 @@ categories:
 tags:
     - Yellowstone
 gallery:
-  - url: /assets/images/yellowstone/Day3BisonSolo.jpeg
-    image_path: assets/images/yellowstone/Day3BisonSolo.jpeg
+  - url: /assets/images/yellowstone/Day3BisonSolo.jpg
+    image_path: assets/images/yellowstone/Day3BisonSolo.jpg
     title: "A Lonely Bison"
   - url: /assets/images/yellowstone/Day3River.jpeg
     image_path: assets/images/yellowstone/Day3River.jpeg
