@@ -75,4 +75,4 @@ Home sweet Hotel room. We made good time since we didn’t run into a Bison Back
 <figcaption>Fire in the hole! (Firehole Geyser)</figcaption>
 </figure>
 
-{% include gallery caption="The Road to Yellowstone" %}
+{% include gallery caption="Geyser Central" %}

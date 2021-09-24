@@ -42,4 +42,4 @@ After dinner, we decide to freshen up, watch a TV show (_The Queens Gambit_), an
 - Climbed 35 floors
 - 4.25 miles
 
-{% include gallery caption="The Road to Yellowstone" %}
+{% include gallery caption="The other Grand Canyon and some artistically inspirational points" %}

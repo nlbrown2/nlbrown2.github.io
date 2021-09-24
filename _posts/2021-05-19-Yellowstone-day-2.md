@@ -52,4 +52,4 @@ We lugged our full selves up the hill to our hotel and cleaned up after dinner. 
 - Climbed 117 floors (change in elevation)
 - 29,263 steps
 
-{% include gallery caption="The Road to Yellowstone" %}
+{% include gallery caption="Mammoth Hot Springs and hiking to a beaver-less pond" %}

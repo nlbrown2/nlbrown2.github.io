@@ -59,4 +59,4 @@ Remember, there was a lot of driving!
 - 18 floors
 - 3 miles
 
-{% include gallery caption="The Road to Yellowstone" %}
+{% include gallery caption="Bison overload!" %}
