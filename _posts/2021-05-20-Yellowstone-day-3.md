@@ -29,6 +29,8 @@ We considered exploring Norris but really wanted to visit Artist Point and reali
 
 Then, we headed back up to the North Rim, where we stopped by Lookout Point, Grand View, and Inspiration Point. These were all very stunning and provided different (occasionally better) views of the Grand Canyon or specific Yellowstone Falls (i.e., the Upper Falls).
 
+For some fantastic pictures from this trip, be sure to visit the Yellowstone photo gallery [here]({{ site.base_url }}{% link _pictures/yellowstone.md %}).
+
 ## 6 pm
 What a day! We start heading back, and we saw a bunch of cars all pulled off the side of the road! Not wanting to miss out, we pull off as well and overhear that someone recently saw a grizzly bear! Unfortunately, it had wandered behind some trees, and after a minute or two, it finally started to rain. We were able to see some elk on the top of the hill grazing. I was hoping the bear was going to chase after them, but this isn’t National Geographic :/. Cold and slightly wet, we decided to continue our journey back. Along the way, we saw some more bison and an entire herd of elk next to the road! It was lovely.
 
@@ -42,4 +44,4 @@ After dinner, we decide to freshen up, watch a TV show (_The Queens Gambit_), an
 - Climbed 35 floors
 - 4.25 miles
 
-{% include gallery caption="The other Grand Canyon and some artistically inspirational points" %}
+{% include gallery caption="Furry friends and Canyon Bridge overlooking the river!" %}
